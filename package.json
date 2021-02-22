@@ -1,0 +1,24 @@
+{
+  "name": "ygg-scrapper-for-ygg-dashboard",
+  "version": "1.0.0",
+  "description": "Simple scrapper to get user ratio/upload/download informations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuGery/ygg-scrapper-for-ygg-dashboard.git"
+  },
+  "author": "https://github.com/MathieuGery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathieuGery/ygg-scrapper-for-ygg-dashboard/issues"
+  },
+  "homepage": "https://github.com/MathieuGery/ygg-scrapper-for-ygg-dashboard#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "cloudflare-scraper": "^1.0.7",
+    "puppeteer": "^7.1.0"
+  }
+}
